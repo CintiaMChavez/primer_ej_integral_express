@@ -6,8 +6,8 @@ const app= express();
 app.use(express.static(path.join(__dirname, "public")));
 
 // llamando_servidor
-app.listen(8080, () => {
-    console.log("Servidor corriendo en puerto 8080, no lo pude hacer correr en el puerto 3030");
+app.listen(3030, () => {
+    console.log("Servidor corriendo!!!💻");
 })
 // Rutas
 app.get("/", (req, res) => {
