@@ -1,0 +1,23 @@
+{
+  "name": "primer_ej_integral_express",
+  "version": "1.0.0",
+  "description": "En este repo voy a crear un sitio con node-express donde voy a mostrar información de las Heroínas y los Héroes Tecnológicos más representativos del ámbito de la programación.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CintiaMChavez/primer_ej_integral_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CintiaMChavez/primer_ej_integral_express/issues"
+  },
+  "homepage": "https://github.com/CintiaMChavez/primer_ej_integral_express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
